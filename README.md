@@ -1,4 +1,4 @@
-Hi I'm Mohan from Pondixherry. At Present I'm pursuing my BTech in CSE from Sri Manakula Vinayagar Engineering College, Pondicherry. Im a Certified Full Stack Developer with more strong in technically using
+Hi I'm Mohan from Pondixherry. Currently Pursuing my BTech in CSE. Im a Certified Full Stack Developer with more strong in technically using
 popular frameworks react js and spring boot. Looking for an oppurtunity in the role of full stack developer.
 
 <!---
