@@ -1,7 +1,7 @@
-## 👋 Hey, I'm [Your Name]
-Full-Stack Developer | Open-Source Advocate
+## 👋 Hey, I'm [Mohan Sarady]
+Full-Stack Developer | Microservices Backend Systems
 
-I create full-stack solutions with **React**, **Spring Boot**, and **PostgreSQL**. Passionate about building scalable and clean code.
+I create full-stack solutions with **React**, **Spring Boot**, **FastAPI**, **Flask** and **PostgreSQL**. Passionate about building scalable and clean code.
 
 ---
 
@@ -15,7 +15,7 @@ I create full-stack solutions with **React**, **Spring Boot**, and **PostgreSQL*
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github.com/mohancoder2k)
 
 ---
 
