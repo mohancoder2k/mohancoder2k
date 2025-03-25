@@ -45,8 +45,11 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github.com/mohancoder2k)
+## 📊 GitHub Stats
+
+| GitHub Streaks 🔥 | GitHub Stats 📈 | Used Languages 🚀 |
+|--------------------|-----------------|--------------------|
+| ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com?user=mohancoder2k&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
 
 ---
 
