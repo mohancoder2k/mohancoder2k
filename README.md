@@ -3,7 +3,7 @@
 > 👋 **Hey, I’m Mohan Sarady**  
 > **Full-Stack Developer |Microservices Backend Systems**  
 >
-> I architect full-stack solutions with **Java**,**Spring Boot**, **Miroservices** **Flutter**, **React**, and a dash of **FastAPI** / **Node.js** magic ✨.  
+> I architect full-stack solutions with **Java**,**Spring Boot**, **Miroservices** **Flutter**, **React**, and a dash of **FastAPI**  magic ✨.  
 > Obsessed with clean code, scalable systems, and bridging the gap between ideas and execution.
 
 ---
