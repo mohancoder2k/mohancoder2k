@@ -1,7 +1,22 @@
-## 👋 Hey, I'm [Mohan Sarady]
-Full-Stack Developer | Microservices Backend Systems
 
-I create full-stack solutions with **React**, **Spring Boot**, **FastAPI**, **Flask** and **PostgreSQL**. Passionate about building scalable and clean code.
+
+> 👋 **Hey, I’m Mohan Sarady**  
+> **Full-Stack Developer |Microservices Backend Systems**  
+>
+> I architect full-stack solutions with **Java**,**Spring Boot**, **Miroservices** **Flutter**, **React**, and a dash of **FastAPI** / **Node.js** magic ✨.  
+> Obsessed with clean code, scalable systems, and bridging the gap between ideas and execution.
+
+---
+
+📦 **What I’m Up To:**  
+- 🚀 **Building TCF**: An software training place for upskilling.  
+- 🛠 **Open-Source**: Contributor to Spring Boot (Java SDK).  
+- ☕ **Fuel**: Cold brew + 🎵 Lo-fi beats.  
+- 🏏 **Recharge**: Cricket + 🎮 Retro gaming.  
+
+---
+
+🚀 **Let’s Build the Future!**  
 
 ---
 
