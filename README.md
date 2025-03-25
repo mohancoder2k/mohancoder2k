@@ -1,10 +1,11 @@
 
+> Renuka Devi Mata Ki Jai 🙏🏻
+👋 Hey, I’m Mohan Sarady
+Full-Stack Developer | Microservices Backend Architect
 
-> 👋 **Hey, I’m Mohan Sarady**  
-> **Full-Stack Developer |Microservices Backend Systems**  
->
-> I architect full-stack solutions with **Java**,**Spring Boot**, **Miroservices** **Flutter**, **React**, and a dash of **FastAPI**  magic ✨.  
-> Obsessed with clean code, scalable systems, and bridging the gap between ideas and execution.
+I architect robust full-stack solutions with Java, Spring Boot, Microservices, Flutter, React, and a dash of FastAPI magic ✨.
+
+Passionate about clean code, scalable systems, and turning ideas into production-ready solutions.
 
 ---
 
