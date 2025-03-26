@@ -30,6 +30,8 @@ Passionate about clean code, scalable systems, and turning ideas into production
 | **Tools & Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 
+
+
 🚀 **Let’s Build the Future!**  
 
 
