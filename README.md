@@ -1,6 +1,6 @@
 > Renuka Devi Mata Ki Jai 🙏🏻
 
-![Hi I'm Mohan Sarady](https://github.com/mohancoder2k/codeSnippets/blob/main/carbon%20(1).png)
+![Hi I'm Mohan Sarady](https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg)
 
 
 
