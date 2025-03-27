@@ -1,15 +1,15 @@
-> Renuka Devi Mata Ki Jai 🙏🏻
+>## Renuka Devi Mata Ki Jai 🙏🏻
 
 ![Hi I'm Mohan Sarady](https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg)
 
 
 
-🚀 About Me
-👨‍💻 Full-Stack Developer | Microservices Backend Architect
+## 🚀 About Me  
+👨‍💻 **Full-Stack Developer | Microservices Backend Architect**  
 
-I architect robust full-stack solutions with Java, Spring Boot, Microservices, Flutter, React, and a dash of FastAPI magic ✨.
+I architect **robust full-stack solutions** with **Java, Spring Boot, Microservices, Flutter, React, and a dash of FastAPI magic ✨.**  
 
-🔥 Passionate about clean code, scalable systems, and turning ideas into production-ready solutions.
+🔥 Passionate about **clean code, scalable systems, and turning ideas into production-ready solutions.**  
 
 ---
 
