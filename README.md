@@ -40,10 +40,10 @@ Passionate about clean code, scalable systems, and turning ideas into production
 
 ## 📊 GitHub Stats
 
-| GitHub Streaks 🔥 | GitHub Stats 📈 | Used Languages 🚀 |
-|--------------------|-----------------|--------------------|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k)](https://git.io/streak-stats)
- | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
+| GitHub Streaks 🔥                                        | GitHub Stats 📈                                              | Used Languages 🚀                                                        |
+|-----------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
+
 
 
 ---
