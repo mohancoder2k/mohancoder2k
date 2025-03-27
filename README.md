@@ -47,7 +47,9 @@ Passionate about clean code, scalable systems, and turning ideas into production
 
 ---
 
-### 💬 Connect With Me
-- 📧 Email: mohansarady@gmail.com
-- 🐦 Github: mohancoder2k(https://github.com/mohancoder2k)
-- 💼 LinkedIn: MohanSarady(https://www.linkedin.com/in/mohan-sarady-539095354/)
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohancoder2k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-sarady-539095354/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansarady@gmail.com)
+
