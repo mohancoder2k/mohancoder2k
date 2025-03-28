@@ -54,26 +54,55 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 
 ## 🔥 Current Endeavors
 
-<div align="center">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<table>
-<tr>
-<td align="center" width="33%">
-  <h3>🎓 Building TCF</h3>
-  <p>Revolutionary software training platform for upskilling developers</p>
-</td>
-<td align="center" width="33%">
-  <h3>🌟 Open Source</h3>
-  <p>Active contributor to Spring Boot (Java SDK)</p>
-</td>
-<td align="center" width="33%">
-  <h3>📚 Learning</h3>
-  <p>Exploring Cloud Native architectures & AI/ML integration</p>
-</td>
-</tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; margin: 20px 0;">
+  <div style="flex: 1;">
+    <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
+      <tr>
+        <td align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+          <h3 style="color: #ffffff; margin: 0;">🎓 Building TCF</h3>
+          <p style="color: #e0e0e0; margin: 10px 0 0 0;">Revolutionary software training platform for upskilling developers</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+          <h3 style="color: #ffffff; margin: 0;">🌟 Open Source</h3>
+          <p style="color: #e0e0e0; margin: 10px 0 0 0;">Active contributor to Spring Boot (Java SDK)</p>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" style="background: linear-gradient(135deg, #16222a 0%, #3a6073 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+          <h3 style="color: #ffffff; margin: 0;">📚 Learning</h3>
+          <p style="color: #e0e0e0; margin: 10px 0 0 0;">Exploring Cloud Native architectures & AI/ML integration</p>
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center; padding: 0 20px;">
+    <img alt="Coding" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  </div>
 </div>
 
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+.floating {
+  animation: float 3s ease-in-out infinite;
+}
+
+td {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+td:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+}
+</style>
 ## 🛠️ Technology Arsenal
 
 ```mermaid
