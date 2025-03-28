@@ -127,17 +127,21 @@
   </a>
 </div>
 
-<div>
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-05759102-0e15-4b67-b858-b7bff6867cf8.gif">
-
-  ### 🌟 Key Features of TCF CAFE
-  - 🍽 **Order Management**: Efficiently handles cafe orders
-  - 💳 **Payment Gateway**: Seamless payment processing
-  - 📦 **Inventory Management**: Tracks stock availability
-  - 🌐 **Microservices Architecture**: Built using Spring Boot for scalability
-  - 🧑‍💻 **Frontend with React JS**: Smooth and responsive UI
-  - 🗂 **Database**: MySQL for reliable data storage
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
+  <div>
+    <h3>🌟 Key Features of TCF CAFE</h3>
+    <ul>
+      <li>🍽 <b>Order Management:</b> Efficiently handles cafe orders</li>
+      <li>💳 <b>Payment Gateway:</b> Seamless payment processing</li>
+      <li>📦 <b>Inventory Management:</b> Tracks stock availability</li>
+      <li>🌐 <b>Microservices Architecture:</b> Built using Spring Boot for scalability</li>
+      <li>🧑‍💻 <b>Frontend with React JS:</b> Smooth and responsive UI</li>
+      <li>🗂 <b>Database:</b> MySQL for reliable data storage</li>
+    </ul>
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-05759102-0e15-4b67-b858-b7bff6867cf8.gif" alt="Coding Animation" width="400" />
 </div>
+
 
 
 <br clear="right">
