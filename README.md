@@ -142,9 +142,7 @@
 - 🗄️ **Database:** Powered by MySQL for reliable data storage
 
 </td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-05759102-0e15-4b67-b858-b7bff6867cf8.gif" alt="Coding Animation" width="100%" />
-</td>
+
 </tr>
 </table>
 
