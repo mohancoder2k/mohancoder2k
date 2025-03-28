@@ -1,43 +1,77 @@
-```markdown
 <div align="center">
 
 # 🙏🏻 Renuka Devi Mata Ki Jai 🙏🏻
 
-![Hi I'm Mohan Sarady](https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg)
+<img src="https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg" alt="Hi I'm Mohan Sarady" width="100%" style="max-width: 800px; border-radius: 10px; margin: 20px 0;">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohancoder2k&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/mohancoder2k)
-[![GitHub followers](https://img.shields.io/github/followers/mohancoder2k?label=Follow&style=social)](https://github.com/mohancoder2k)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohancoder2k&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohancoder2k?label=Follow&style=social" alt="GitHub followers" />
+</p>
 
+---
+
+<h2>💫 Welcome to My Digital Garden! 💫</h2>
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+  <strong>🎯 Full-Stack Developer</strong>
+</td>
+<td align="center">
+  <strong>🏗️ Microservices Architect</strong>
+</td>
+<td align="center">
+  <strong>🌟 Open Source Enthusiast</strong>
+</td>
+</tr>
+</table>
 </div>
 
 ## 👨‍💻 Who Am I?
 
-> *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
+<div align="center">
+
+> *"Clean code always looks like it was written by someone who cares."*  
+> \- Robert C. Martin
+
+</div>
 
 I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a passion for building scalable, efficient, and maintainable systems. I specialize in crafting robust solutions using modern technologies and best practices.
 
+<div align="center">
+
 ### 🎯 Professional Focus
-- 🛠️ **Architecture**: Designing scalable microservices architectures
-- 🔒 **Security**: Implementing robust security practices
-- 🚀 **Performance**: Optimizing system performance and reliability
-- 📊 **Data**: Creating efficient data models and workflows
+
+| 🏗️ Architecture | 🔒 Security | 🚀 Performance | 📊 Data |
+|:---------------:|:-----------:|:--------------:|:--------:|
+| Scalable Microservices | Robust Security Practices | System Optimization | Efficient Data Models |
+
+</div>
 
 ## 🔥 Current Endeavors
 
+<div align="center">
 <table>
-  <tr>
-    <td>🎓 Building TCF</td>
-    <td>Revolutionary software training platform for upskilling developers</td>
-  </tr>
-  <tr>
-    <td>🌟 Open Source</td>
-    <td>Active contributor to Spring Boot (Java SDK)</td>
-  </tr>
-  <tr>
-    <td>📚 Learning</td>
-    <td>Exploring Cloud Native architectures & AI/ML integration</td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+  <h3>🎓 Building TCF</h3>
+  <p>Revolutionary software training platform for upskilling developers</p>
+</td>
+<td align="center" width="33%">
+  <h3>🌟 Open Source</h3>
+  <p>Active contributor to Spring Boot (Java SDK)</p>
+</td>
+<td align="center" width="33%">
+  <h3>📚 Learning</h3>
+  <p>Exploring Cloud Native architectures & AI/ML integration</p>
+</td>
+</tr>
 </table>
+</div>
 
 ## 🛠️ Technology Arsenal
 
@@ -113,5 +147,3 @@ graph LR
 *"The best way to predict the future is to create it."*
 
 </div>
-```
-
