@@ -1,6 +1,7 @@
+```markdown
 <div align="center">
 
-# 🙏🏻 जय माता दी 🙏🏻
+# 🙏🏻 Renuka Devi Mata Ki Jai 🙏🏻
 
 ![Hi I'm Mohan Sarady](https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg)
 
@@ -16,8 +17,8 @@
 I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a passion for building scalable, efficient, and maintainable systems. I specialize in crafting robust solutions using modern technologies and best practices.
 
 ### 🎯 Professional Focus
-- 🏗️ **Architecture**: Designing scalable microservices architectures
-- 🔐 **Security**: Implementing robust security practices
+- 🛠️ **Architecture**: Designing scalable microservices architectures
+- 🔒 **Security**: Implementing robust security practices
 - 🚀 **Performance**: Optimizing system performance and reliability
 - 📊 **Data**: Creating efficient data models and workflows
 
@@ -43,10 +44,10 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 ### Backend Development
 ```mermaid
 graph LR
-    A[Java] --> B[Spring Boot]
-    B --> C[Microservices]
-    D[Python] --> E[FastAPI]
-    E --> F[REST APIs]
+    A[Java 📝] --> B[Spring Boot 🚀]
+    B --> C[Microservices 🛡️]
+    D[Python 👨‍💻] --> E[FastAPI 📁]
+    E --> F[REST APIs 📚]
 ```
 
 ### Frontend & Mobile
@@ -54,9 +55,9 @@ graph LR
 
 | Web Development | Mobile Development |
 |:---------------:|:------------------:|
-| React.js | Flutter |
-| Tailwind CSS | React Native |
-| HTML5/CSS3 | Firebase |
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 
 </div>
 
@@ -65,10 +66,10 @@ graph LR
 
 | Databases | Cloud & DevOps |
 |:---------:|:-------------:|
-| PostgreSQL | Docker |
-| MongoDB | Kubernetes |
-| MySQL | Apache Kafka |
-| Firebase | Linux |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white) |
+| ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) |
 
 </div>
 
@@ -76,7 +77,7 @@ graph LR
 
 <div align="center">
 
-| GitHub Streaks 🔥 | GitHub Stats 📈 | Languages 🚀 |
+| GitHub Streaks 🔥 | GitHub Stats 📊 | Languages 🚀 |
 |:-----------------:|:---------------:|:------------:|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
 
@@ -107,8 +108,9 @@ graph LR
 
 <div align="center">
 
-### 📫 Open for Collaboration!
+### 📩 Open for Collaboration!
 
 *"The best way to predict the future is to create it."*
 
 </div>
+```
