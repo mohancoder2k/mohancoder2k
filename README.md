@@ -90,6 +90,7 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
     <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   </div>
 </div>
+
 ## 🛠️ Technology Arsenal
 
 ### Backend Development
@@ -155,27 +156,19 @@ graph LR
   </div>
 </div>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 10px; margin: 20px 0; flex-wrap: nowrap;">
-  <div style="background: rgba(30, 60, 114, 0.1); padding: 10px; border-radius: 10px; flex: 1;">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight" alt="GitHub Streak" width="100%" />
-    </a>
-  </div>
-  <div style="background: rgba(44, 62, 80, 0.1); padding: 10px; border-radius: 10px; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
-  </div>
-  <div style="background: rgba(22, 34, 42, 0.1); padding: 10px; border-radius: 10px; flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
-  </div>
-</div>
+| GitHub Streaks 🔥                                        | GitHub Stats 📈                                              | Used Languages 🚀                                                        |
+|-----------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
 
-## 🌱 Contribution Garden
 
-<div style="background: rgba(30, 60, 114, 0.1); padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohancoder2k&theme=react" alt="Mohan's Contribution Graph" width="100%" />
-</div>
+## 🚀 Contribution Graph  
+
+![Mohan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohancoder2k&theme=react)
+
+---
+
 
 ## 🎯 Quick Facts
 
@@ -222,27 +215,3 @@ graph LR
 
 </div>
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-
-.floating {
-  animation: float 3s ease-in-out infinite;
-}
-
-div[style*="background: linear-gradient"] {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-div[style*="background: linear-gradient"]:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
-}
-
-img[alt*="badge"] {
-  margin: 0 5px;
-}
-</style>
