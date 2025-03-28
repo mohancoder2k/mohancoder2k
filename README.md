@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg" alt="Mohan" width="100%"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Microservices+Architect;Flutter+%26+React+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot;Microservices+Architect;Flutter+%26+React+Developer)](https://git.io/typing-svg)
 </div>
 
 ## 👨‍💻 About Me
