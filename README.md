@@ -120,7 +120,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohancoder2k&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats" />
 </div>
 
 <div align="center">
