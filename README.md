@@ -1,62 +1,174 @@
-# 🚀 Mohan Sarady
+>## Renuka Devi Mata Ki Jai 🙏🏻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohancoder2k)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/mohancoder2k)
+<div align="center">
+  <img src="https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg" alt="Mohan" width="100%"/>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Microservices+Architect;Flutter+%26+React+Developer)](https://git.io/typing-svg)
+</div>
 
-> 💗 **Renuka Devi Mata Ki Jai** 🙏🏻
+## 👨‍💻 About Me
+>I architect *robust full-stack solutions* with *Java, Spring Boot, Microservices, Flutter, React, and a dash of FastAPI magic ✨.*  
 
-## About Me
+> 🔥 Passionate about *clean code, scalable systems, and turning ideas into production-ready solutions.*
 
-Microservices Backend Architect specializing in building scalable systems and secure applications. I bring ideas to life using Java, Spring Boot, Microservices, Flutter, React, and FastAPI.
 
-- 🎯 **Role:** Microservices Backend Architect
-- 💻 **Specialty:** Java Spring Boot | Microservices | API Development
-- 🎨 **Frontend:** React | Flutter | React Native
-- 🤖 **AI Integration:** FastAPI | ML/AI Solutions
+<div>
+  <img align="right" alt="Coding" width="400" src="https://github.com/mohancoder2k/codeSnippets/blob/main/coder.gif">
 
-## Current Projects
+  ### 🎯 Current Focus
+- *Building TCF*: A software training place for upskilling.  
+- 🛠 *Open-Source*: Contributor to Spring Boot (Java SDK).  
+- ☕ *Fuel*: Cold brew + 🎵 Lo-fi beats.  
+- 🏏 *Recharge*: Cricket + 🎮 Retro gaming.  
 
-- 🚀 **TCF** - Software training platform for upskilling
-- 🏢 **Forensic 360** - Digital forensic investigation platform with AI
-- 🛠️ **Spring Boot Contributor** - Active contributions to the Java SDK
-- ☕ **Coffee Lover** - Filter coffee + Lo-fi beats = Productive coding sessions
+</div>
 
-## Tech Stack
+<br clear="right">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+## 🛠 Technology Arsenal
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35" style="margin-bottom: 20px"/>
+</div>
 
-### Backend Development
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+<div align="center" style="animation: fadeIn 2s ease-in-out;">
 
-### AI & Machine Learning
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+### 💻 Development Stack
+<table align="center" style="width: 100%; border-collapse: separate; border-spacing: 0 15px; animation: slideIn 1s ease-in-out;">
+  <tr style="background: linear-gradient(45deg, #1a1b27, #2a2b37); animation: pulse 2s infinite;">
+    <th width="200" align="center" style="padding: 20px; border-radius: 10px 0 0 10px;">Category</th>
+    <th width="800" align="center" style="padding: 20px; border-radius: 0 10px 10px 0;">Technologies</th>
+  </tr>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+  <!-- Preprocessor & Markup -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Preprocessor & Markup</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  <!-- Programming Languages -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Programming Languages</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
+    </td>
+  </tr>
 
-## GitHub Stats
+  <!-- Frameworks & Libraries -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Frameworks & Libraries</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black" alt="React Native" />
+    </td>
+  </tr>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k&theme=dark&hide_border=true)
+  <!-- Databases -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Databases</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=dark)
+  <!-- Hosting Platforms -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Hosting Platforms</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black" alt="Render" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    </td>
+  </tr>
 
-## Connect With Me
+  <!-- Tools & Platforms -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Tools & Platforms</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
+    </td>
+  </tr>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohancoder2k)
-- 🐱 [GitHub](https://github.com/mohancoder2k)
-- 🚀 [Projects](https://github.com/mohancoder2k?tab=repositories)
+  <!-- Version Control -->
+  <tr>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 10px 0 0 10px;"><b>Version Control</b></td>
+    <td align="center" style="padding: 20px; background: #1a1b27; border-radius: 0 10px 10px 0;">
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohancoder2k&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohancoder2k&theme=react" alt="Contribution Graph" />
+</div>
+
+
+## 🎯 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mohancoder2k/FullStack_TCF_CAFE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohancoder2k&repo=FullStack_TCF_CAFE&theme=tokyonight" alt="TCF_CAFE" />
+  </a>
+</div>
+
+<div>
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-05759102-0e15-4b67-b858-b7bff6867cf8.gif">
+
+  ### 🌟 Key Features of TCF CAFE
+  - 🍽 **Order Management**: Efficiently handles cafe orders
+  - 💳 **Payment Gateway**: Seamless payment processing
+  - 📦 **Inventory Management**: Tracks stock availability
+  - 🌐 **Microservices Architecture**: Built using Spring Boot for scalability
+  - 🧑‍💻 **Frontend with React JS**: Smooth and responsive UI
+  - 🗂 **Database**: MySQL for reliable data storage
+</div>
+
+
+<br clear="right">
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/mohancoder2k">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohan-sarady-539095354/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohansarady@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
 
 ---
 
-**🚀 Let's innovate together!**
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohancoder2k&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</div>
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
