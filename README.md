@@ -76,13 +76,15 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 ## 🛠️ Technology Arsenal
 
 ### Backend Development
+<div align="center">
+
 ```mermaid
 graph LR
-    A[Java 📝] --> B[Spring Boot 🚀]
-    B --> C[Microservices 🛡️]
-    D[Python 👨‍💻] --> E[FastAPI 📁]
-    E --> F[REST APIs 📚]
-```
+    A[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)] --> B[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)]
+    B --> C[![Microservices](https://img.shields.io/badge/Microservices-FF9900?logo=amazonaws&logoColor=white)]
+    D[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)] --> E[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]
+    E --> F[![REST APIs](https://img.shields.io/badge/REST_APIs-005C97?logo=postman&logoColor=white)]
+
 
 ### Frontend & Mobile
 <div align="center">
