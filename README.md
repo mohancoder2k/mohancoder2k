@@ -75,7 +75,6 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 
 ## 🛠️ Technology Arsenal
 
-### Backend Development
 ```mermaid
 graph LR
     classDef java fill:#007396,stroke:#fff,stroke-width:2px,color:#fff
@@ -85,10 +84,10 @@ graph LR
     classDef fastapi fill:#009688,stroke:#fff,stroke-width:2px,color:#fff
     classDef rest fill:#005C97,stroke:#fff,stroke-width:2px,color:#fff
 
-    A[("Java 🔧")]:::java --> B[("Spring Boot 🚀")]:::spring
-    B --> C[("Microservices ⚡")]:::micro
-    D[("Python 🐍")]:::python --> E[("FastAPI ⚡")]:::fastapi
-    E --> F[("REST APIs 🌐")]:::rest
+    A[("<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' width='20' height='20' /> Java")]:::java --> B[("<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg' width='20' height='20' /> Spring Boot")]:::spring
+    B --> C[("<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width='20' height='20' /> Microservices")]:::micro
+    D[("<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='20' height='20' /> Python")]:::python --> E[("<img src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png' width='20' height='20' /> FastAPI")]:::fastapi
+    E --> F[("<img src='https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg' width='20' height='20' /> REST APIs")]:::rest
 
     linkStyle 0,1,2,3 stroke:#666,stroke-width:2px
 ```
