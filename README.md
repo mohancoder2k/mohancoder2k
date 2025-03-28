@@ -68,9 +68,10 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 
 </div>
 
+
 ## 🔥 Current Endeavors
 
-<div style="display: grid; grid-template-columns: 3fr 2fr; gap: 20px; margin: 20px 0;">
+<div style="display: grid; grid-template-columns: 7fr 3fr; gap: 20px; margin: 20px 0;">
   <div>
     <div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px; margin-bottom: 15px; color: white;">
       <h3>🎓 Building TCF</h3>
@@ -86,10 +87,9 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
     </div>
   </div>
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
+    <img alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
   </div>
 </div>
-
 ## 🛠️ Technology Arsenal
 
 ### Backend Development
@@ -157,16 +157,16 @@ graph LR
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
-  <div style="background: rgba(30, 60, 114, 0.1); padding: 20px; border-radius: 10px;">
+<div align="center" style="display: flex; justify-content: space-between; gap: 10px; margin: 20px 0; flex-wrap: nowrap;">
+  <div style="background: rgba(30, 60, 114, 0.1); padding: 10px; border-radius: 10px; flex: 1;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight" alt="GitHub Streak" width="100%" />
     </a>
   </div>
-  <div style="background: rgba(44, 62, 80, 0.1); padding: 20px; border-radius: 10px;">
+  <div style="background: rgba(44, 62, 80, 0.1); padding: 10px; border-radius: 10px; flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="100%" />
   </div>
-  <div style="background: rgba(22, 34, 42, 0.1); padding: 20px; border-radius: 10px;">
+  <div style="background: rgba(22, 34, 42, 0.1); padding: 10px; border-radius: 10px; flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight" alt="Top Languages" width="100%" />
   </div>
 </div>
