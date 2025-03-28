@@ -123,7 +123,7 @@
 
 <div align="center">
   <a href="https://github.com/mohancoder2k/FullStack_TCF_CAFE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohancoder2k&repo=FullStack_TCF_CAFE&theme=tokyonight" alt="TCF_CAFE" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohancoder2k&repo=FullStack_TCF_CAFE&theme=tokyonight&cache_seconds=1800" alt="TCF_CAFE" />
   </a>
 </div>
 
