@@ -114,10 +114,9 @@
 
 ## 📊 GitHub Stats
 
-| GitHub Streaks 🔥                                        | GitHub Stats 📈                                              | Used Languages 🚀                                                        |
-|-----------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|
-|[![GitHub Streak](https://streak-stats.vercel.app/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats)
- | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
+| GitHub Streaks 🔥 | GitHub Stats 📈 | Used Languages 🚀 |
+|--------------------|-----------------|--------------------|
+| [![GitHub Streak](https://streak-stats.vercel.app/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
 
 
 ## 🎯 Featured Projects
