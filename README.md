@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # 🙏🏻 Renuka Devi Mata Ki Jai 🙏🏻
@@ -54,55 +55,36 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 
 ## 🔥 Current Endeavors
 
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; margin: 20px 0;">
-  <div style="flex: 1;">
-    <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
+<table>
+<tr>
+  <td style="width: 60%;">
+    <table>
       <tr>
-        <td align="center" style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-          <h3 style="color: #ffffff; margin: 0;">🎓 Building TCF</h3>
-          <p style="color: #e0e0e0; margin: 10px 0 0 0;">Revolutionary software training platform for upskilling developers</p>
+        <td align="center" style="background: #1e3c72; color: white; padding: 20px; border-radius: 10px;">
+          <h3>🎓 Building TCF</h3>
+          <p>Revolutionary software training platform for upskilling developers</p>
         </td>
       </tr>
       <tr>
-        <td align="center" style="background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-          <h3 style="color: #ffffff; margin: 0;">🌟 Open Source</h3>
-          <p style="color: #e0e0e0; margin: 10px 0 0 0;">Active contributor to Spring Boot (Java SDK)</p>
+        <td align="center" style="background: #2c3e50; color: white; padding: 20px; border-radius: 10px;">
+          <h3>🌟 Open Source</h3>
+          <p>Active contributor to Spring Boot (Java SDK)</p>
         </td>
       </tr>
       <tr>
-        <td align="center" style="background: linear-gradient(135deg, #16222a 0%, #3a6073 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-          <h3 style="color: #ffffff; margin: 0;">📚 Learning</h3>
-          <p style="color: #e0e0e0; margin: 10px 0 0 0;">Exploring Cloud Native architectures & AI/ML integration</p>
+        <td align="center" style="background: #16222a; color: white; padding: 20px; border-radius: 10px;">
+          <h3>📚 Learning</h3>
+          <p>Exploring Cloud Native architectures & AI/ML integration</p>
         </td>
       </tr>
     </table>
-  </div>
-  
-  <div style="flex: 1; display: flex; justify-content: center; align-items: center; padding: 0 20px;">
+  </td>
+  <td style="width: 40%;" align="center">
     <img alt="Coding" width="100%" style="max-width: 400px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  </div>
-</div>
+  </td>
+</tr>
+</table>
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-
-.floating {
-  animation: float 3s ease-in-out infinite;
-}
-
-td {
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-td:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 6px 20px rgba(0,0,0,0.15);
-}
-</style>
 ## 🛠️ Technology Arsenal
 
 ```mermaid
@@ -114,13 +96,17 @@ graph LR
     classDef fastapi fill:#009688,stroke:#fff,stroke-width:2px,color:#fff
     classDef rest fill:#005C97,stroke:#fff,stroke-width:2px,color:#fff
 
-    A[("<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg' width='20' height='20' /> Java")]:::java --> B[("<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg' width='20' height='20' /> Spring Boot")]:::spring
-    B --> C[("<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg' width='20' height='20' /> Microservices")]:::micro
-    D[("<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg' width='20' height='20' /> Python")]:::python --> E[("<img src='https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png' width='20' height='20' /> FastAPI")]:::fastapi
-    E --> F[("<img src='https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg' width='20' height='20' /> REST APIs")]:::rest
+    A[Java]:::java --> B[Spring Boot]:::spring
+    B --> C[Microservices]:::micro
+    D[Python]:::python --> E[FastAPI]:::fastapi
+    E --> F[REST APIs]:::rest
 
     linkStyle 0,1,2,3 stroke:#666,stroke-width:2px
 ```
+```
+This layout improves the alignment of the **Current Endeavors** section and keeps it responsive. Let me know if you'd like further adjustments!
+
+
 
 ### Frontend & Mobile
 <div align="center">
