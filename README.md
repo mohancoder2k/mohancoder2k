@@ -120,8 +120,9 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats" />
+  <img src="https://streak-stats.demolab.com?user=mohancoder2k&theme=tokyonight" alt="GitHub Streak" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohancoder2k&theme=react" alt="Contribution Graph" />
