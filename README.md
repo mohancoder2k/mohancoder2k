@@ -46,6 +46,9 @@ I architect **robust full-stack solutions** with **Java, Spring Boot, Microservi
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
 
 
+## 🚀 Contribution Graph  
+
+![Mohan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohancoder2k&theme=react)
 
 ---
 
