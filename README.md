@@ -76,15 +76,22 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 ## 🛠️ Technology Arsenal
 
 ### Backend Development
-<div align="center">
-
 ```mermaid
 graph LR
-    A[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)] --> B[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)]
-    B --> C[![Microservices](https://img.shields.io/badge/Microservices-FF9900?logo=amazonaws&logoColor=white)]
-    D[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)] --> E[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)]
-    E --> F[![REST APIs](https://img.shields.io/badge/REST_APIs-005C97?logo=postman&logoColor=white)]
+    classDef java fill:#007396,stroke:#fff,stroke-width:2px,color:#fff
+    classDef spring fill:#6DB33F,stroke:#fff,stroke-width:2px,color:#fff
+    classDef micro fill:#FF9900,stroke:#fff,stroke-width:2px,color:#fff
+    classDef python fill:#3776AB,stroke:#fff,stroke-width:2px,color:#fff
+    classDef fastapi fill:#009688,stroke:#fff,stroke-width:2px,color:#fff
+    classDef rest fill:#005C97,stroke:#fff,stroke-width:2px,color:#fff
 
+    A[("Java 🔧")]:::java --> B[("Spring Boot 🚀")]:::spring
+    B --> C[("Microservices ⚡")]:::micro
+    D[("Python 🐍")]:::python --> E[("FastAPI ⚡")]:::fastapi
+    E --> F[("REST APIs 🌐")]:::rest
+
+    linkStyle 0,1,2,3 stroke:#666,stroke-width:2px
+```
 
 ### Frontend & Mobile
 <div align="center">
