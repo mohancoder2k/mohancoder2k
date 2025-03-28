@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # 🙏🏻 Renuka Devi Mata Ki Jai 🙏🏻
 
 <img src="https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg" alt="Hi I'm Mohan Sarady" width="100%" style="max-width: 800px; border-radius: 10px; margin: 20px 0;">
@@ -7,6 +8,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohancoder2k&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohancoder2k?label=Follow&style=social" alt="GitHub followers" />
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2D9596&random=false&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Microservices+Architect;Flutter+%26+React+Developer)](https://git.io/typing-svg)
+</div>
+
 </p>
 
 ---
@@ -67,6 +71,21 @@ I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a pa
 </table>
 
 </div>
+## 👨‍💻 About Me
+>I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a passion for building scalable, efficient, and maintainable systems. I specialize in crafting robust solutions using modern technologies and best practices.
+<div>
+  <img align="right" alt="Coding" width="400" src="https://github.com/mohancoder2k/codeSnippets/blob/main/coder.gif">
+
+  ### 🎯 Current Focus
+📦 *What I’m Up To:*  
+- 🚀 *Building TCF*: A software training place for upskilling.  
+- 🛠 *Open-Source*: Contributor to Spring Boot (Java SDK).  
+- ☕ *Fuel*: Cold brew + 🎵 Lo-fi beats.  
+- 🏏 *Recharge*: Cricket + 🎮 Retro gaming.  
+
+</div>
+
+<br clear="right">
 
 
 ## 🔥 Current Endeavors
