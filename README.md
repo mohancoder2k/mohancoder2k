@@ -14,10 +14,14 @@ I architect **robust full-stack solutions** with **Java, Spring Boot, Microservi
 ---
 
 📦 **What I’m Up To:**  
-- 🚀 **Building TCF**: An software training place for upskilling.  
+- 🚀 **Building TCF**: A software training place for upskilling.  
 - 🛠 **Open-Source**: Contributor to Spring Boot (Java SDK).  
 - ☕ **Fuel**: Cold brew + 🎵 Lo-fi beats.  
 - 🏏 **Recharge**: Cricket + 🎮 Retro gaming.  
+
+---
+
+🚀 **Let’s Build the Future**
 
 ---
 
