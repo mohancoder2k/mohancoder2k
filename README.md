@@ -1,64 +1,114 @@
->## Renuka Devi Mata Ki Jai 🙏🏻
+<div align="center">
+
+# 🙏🏻 जय माता दी 🙏🏻
 
 ![Hi I'm Mohan Sarady](https://github.com/mohancoder2k/codeSnippets/blob/main/snippet.jpg)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=mohancoder2k&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/mohancoder2k)
+[![GitHub followers](https://img.shields.io/github/followers/mohancoder2k?label=Follow&style=social)](https://github.com/mohancoder2k)
 
+</div>
 
-## 🚀 About Me  
-👨‍💻 **Full-Stack Developer | Microservices Backend Architect**  
+## 👨‍💻 Who Am I?
 
-I architect **robust full-stack solutions** with **Java, Spring Boot, Microservices, Flutter, React, and a dash of FastAPI magic ✨.**  
+> *"Clean code always looks like it was written by someone who cares."* - Robert C. Martin
 
-🔥 Passionate about **clean code, scalable systems, and turning ideas into production-ready solutions.**  
+I'm a **Full-Stack Developer** and **Microservices Backend Architect** with a passion for building scalable, efficient, and maintainable systems. I specialize in crafting robust solutions using modern technologies and best practices.
 
----
+### 🎯 Professional Focus
+- 🏗️ **Architecture**: Designing scalable microservices architectures
+- 🔐 **Security**: Implementing robust security practices
+- 🚀 **Performance**: Optimizing system performance and reliability
+- 📊 **Data**: Creating efficient data models and workflows
 
-📦 **What I’m Up To:**  
-- 🚀 **Building TCF**: A software training place for upskilling.  
-- 🛠 **Open-Source**: Contributor to Spring Boot (Java SDK).  
-- ☕ **Fuel**: Cold brew + 🎵 Lo-fi beats.  
-- 🏏 **Recharge**: Cricket + 🎮 Retro gaming.  
+## 🔥 Current Endeavors
 
----
+<table>
+  <tr>
+    <td>🎓 Building TCF</td>
+    <td>Revolutionary software training platform for upskilling developers</td>
+  </tr>
+  <tr>
+    <td>🌟 Open Source</td>
+    <td>Active contributor to Spring Boot (Java SDK)</td>
+  </tr>
+  <tr>
+    <td>📚 Learning</td>
+    <td>Exploring Cloud Native architectures & AI/ML integration</td>
+  </tr>
+</table>
 
-🚀 **Let’s Build the Future**
+## 🛠️ Technology Arsenal
 
----
+### Backend Development
+```mermaid
+graph LR
+    A[Java] --> B[Spring Boot]
+    B --> C[Microservices]
+    D[Python] --> E[FastAPI]
+    E --> F[REST APIs]
+```
 
+### Frontend & Mobile
+<div align="center">
 
-# Tech Stack 🛠️
+| Web Development | Mobile Development |
+|:---------------:|:------------------:|
+| React.js | Flutter |
+| Tailwind CSS | React Native |
+| HTML5/CSS3 | Firebase |
 
-| Category | Technologies |
-|----------|-------------|
-| **Preprocessor & Markup** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) |
-| **Programming Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
-| **Frameworks & Libraries** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **Hosting Platforms** | ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
-| **Tools & Platforms** | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
+</div>
 
+### Database & Infrastructure
+<div align="center">
 
+| Databases | Cloud & DevOps |
+|:---------:|:-------------:|
+| PostgreSQL | Docker |
+| MongoDB | Kubernetes |
+| MySQL | Apache Kafka |
+| Firebase | Linux |
 
-🚀 **Let’s Build the Future!**  
+</div>
 
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
 
-| GitHub Streaks 🔥                                        | GitHub Stats 📈                                              | Used Languages 🚀                                                        |
-|-----------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------|
+| GitHub Streaks 🔥 | GitHub Stats 📈 | Languages 🚀 |
+|:-----------------:|:---------------:|:------------:|
 | [![GitHub Streak](https://streak-stats.demolab.com/?user=mohancoder2k&theme=tokyonight)](https://git.io/streak-stats) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohancoder2k&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohancoder2k&layout=compact&theme=tokyonight) |
 
+</div>
 
-## 🚀 Contribution Graph  
+## 🌱 Contribution Garden
 
 ![Mohan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohancoder2k&theme=react)
 
----
+## 🎯 Quick Facts
 
-## 🌐 Connect With Me
+- 🌟 **Open Source Enthusiast**: Contributing to make the developer world better
+- 📚 **Continuous Learner**: Always exploring new technologies
+- 🎮 **Work-Life Balance**: Cricket enthusiast and retro gaming lover
+- ☕ **Powered by**: Cold brew coffee and lo-fi beats
+
+## 🤝 Let's Connect!
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohancoder2k)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-sarady-539095354/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohansarady@gmail.com)
 
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Open for Collaboration!
+
+*"The best way to predict the future is to create it."*
+
+</div>
